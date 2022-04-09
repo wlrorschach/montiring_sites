@@ -1,0 +1,9 @@
+09/04/2022 15:24:48 - https://www.alura.com.br - online: true
+09/04/2022 15:24:49 - https://www.caelum.com.br - online: true
+09/04/2022 15:24:49 - https://www.nicolas-cage.com/ - online: true
+09/04/2022 15:24:54 - https://www.alura.com.br - online: true
+09/04/2022 15:24:54 - https://www.caelum.com.br - online: true
+09/04/2022 15:24:54 - https://www.nicolas-cage.com/ - online: true
+09/04/2022 15:25:00 - https://www.alura.com.br - online: true
+09/04/2022 15:25:00 - https://www.caelum.com.br - online: true
+09/04/2022 15:25:00 - https://www.nicolas-cage.com/ - online: true
